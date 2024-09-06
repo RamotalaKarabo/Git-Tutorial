@@ -1,4 +1,4 @@
-# Learn abobut git and github
+# Learn about git and github
 
 ```javascript
 console.log("Hello World");
